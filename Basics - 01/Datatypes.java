@@ -5,3 +5,4 @@ class Datatypes{
         System.out.println(b);
     }
 }
+//int boolean char short long byte float double
